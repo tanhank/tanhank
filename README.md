@@ -34,15 +34,6 @@ Here are a couple of tools I've built to make developers' lives easier and safer
 - A single static Rust binary with bash, zsh, and fish hooks. Because we all make mistakes.
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanhank&show_icons=true&theme=radical&hide_border=true" alt="Hank's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanhank&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
----
 <p align="center">
   <i>Let's build something secure and useful.</i>
 </p>
